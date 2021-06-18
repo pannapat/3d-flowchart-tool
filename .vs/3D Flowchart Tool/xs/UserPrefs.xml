@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{498B31F5-CC19-F802-BC18-0A3CDCAE3241}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GraphNode.cs">
+    <Files>
+      <File FileName="Assets/Scripts/New/Global.cs" Line="6" Column="65" />
+      <File FileName="Assets/Scripts/New/ObjectCloner.cs" Line="58" Column="1" />
+      <File FileName="Assets/Scripts/New/NodeConnector.cs" Line="13" Column="11" />
+      <File FileName="Assets/Scripts/New/ObjectDragger.cs" Line="36" Column="21" />
+      <File FileName="Assets/Scripts/New/DiamondCloner.cs" Line="56" Column="25" />
+      <File FileName="Assets/Scripts/New/ShowHide.cs" Line="5" Column="29" />
+      <File FileName="Assets/Scripts/New/ShowHideAnchorsOnHover.cs" Line="54" Column="33" />
+      <File FileName="Assets/Scripts/Graph.cs" Line="102" Column="23" />
+      <File FileName="Assets/Scripts/UIEdgeRenderer.cs" Line="33" Column="4" />
+      <File FileName="Assets/Scripts/GraphNode.cs" Line="40" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D Flowchart Tool" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ProceduralUIImage" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Modifiers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="New" expanded="True" />
+                <Node name="GraphNode.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Input.GetMouseButtonDown(0)</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fd384ea4-c6f8-4c40-a325-d08fff2252a1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
